@@ -2,11 +2,8 @@
 
 # Gerar população
 # population: Population = initPopulation()
-from concurrent.futures import thread
 import random
-import os
 import time
-from threading import Thread
 
 import pygame
 from pygame.locals import *

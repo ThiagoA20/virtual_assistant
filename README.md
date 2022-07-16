@@ -6,6 +6,7 @@ This project aims to automate most part of the work of a programmer. Such as cre
 ---
 ## Features:
 - [ ] **Create desktop projects**
+    - [ ] Generalize - Interface to open user interfaces with different programming languages
     - [ ] Pygame - create screen
 - [ ] **Offline Text to speech**
 - [ ] **Offline Speech recognition**
