@@ -3,3 +3,4 @@
 */.temp
 .env
 __pycache__
+execution.log

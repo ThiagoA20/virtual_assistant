@@ -10,10 +10,6 @@ generate log
 connect functions
 
 -----------------------------------------------------
-
-Code:
-#MM# -> master machine
-#SM# -> slave machine
 """
 
 import os
@@ -44,12 +40,6 @@ from common.graphical_interface.vpgi import *
 # Monitor battery usage
 
 # Run all checks
-
-def testFunction():
-    i = 5
-    while i > 0:
-        time.sleep(1)
-        i -= 1
 
 # current_time = datetime.datetime.now()
 # current_time.strftime('%Y-%m-%d %H:%M:%S')

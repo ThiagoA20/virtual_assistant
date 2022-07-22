@@ -1,3 +1,13 @@
+"""
+---------- Visual Programming and Gamming interface (VPGI) Project ----------
+
+Responsabilities:
+
+Create screen
+
+-----------------------------------------------------------------------------
+"""
+
 import pygame
 from pygame.locals import *
 
