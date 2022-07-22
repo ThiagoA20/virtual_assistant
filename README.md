@@ -8,8 +8,8 @@ This project aims to automate most part of the work of a programmer. Such as cre
 - [ ] **Create desktop projects**
     - [ ] Generalize - Interface to open user interfaces with different programming languages
     - [ ] Pygame - create screen
-- [ ] **Offline Text to speech**
-- [ ] **Offline Speech recognition**
+- [X] **Offline Text to speech**
+- [X] **Offline Speech recognition**
 - [ ] **Chat bot**
 - [ ] **Create server**
 - [ ] **Create, read, update and delete files**
