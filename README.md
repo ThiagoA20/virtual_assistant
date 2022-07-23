@@ -10,6 +10,7 @@ This project aims to automate most part of the work of a programmer. Such as cre
     - [ ] Pygame - create screen
 - [X] **Offline Text to speech**
 - [X] **Offline Speech recognition**
+- [ ] **Open a dashboard to control the files in the PC and information in the databases**
 - [ ] **Chat bot**
 - [ ] **Create server**
 - [ ] **Create, read, update and delete files**
@@ -23,6 +24,7 @@ This project aims to automate most part of the work of a programmer. Such as cre
 - [ ] **Delete value in table X of database Z**
 - [ ] **Create web project**
 - [ ] **Create mobile project**
+- [ ] **Create blockchain project**
 - [ ] **Version control system**
 - [ ] **Convert code from programming language X to Y and vice versa**
 - [ ] **Setup CI/CD pipeline**
